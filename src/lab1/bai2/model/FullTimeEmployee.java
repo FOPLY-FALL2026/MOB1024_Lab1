@@ -1,4 +1,4 @@
-package lab1.bai2;
+package lab1.bai2.model;
 
 /**
  * Bài 2 – Nhân viên toàn thời gian, kế thừa Employee.

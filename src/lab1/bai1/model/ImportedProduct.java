@@ -1,4 +1,4 @@
-package lab1.bai1;
+package lab1.bai1.model;
 
 /**
  * Bài 1 – Sản phẩm nhập khẩu, kế thừa Product.

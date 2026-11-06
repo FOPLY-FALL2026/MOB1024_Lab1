@@ -1,7 +1,7 @@
-package lab1.bai2;
+package lab1.bai2.model;
 
 /**
- * Bài 2 – Nhân viên.
+ * Bài 2 – Nhân viên (model: chỉ chứa dữ liệu + kiểm tra + tính lương, không in, không nhập).
  *
  * TODO:
  *  1. Thuộc tính private: id (String), name (String), basicSalary (double)

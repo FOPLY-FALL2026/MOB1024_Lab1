@@ -1,7 +1,7 @@
-package lab1.bai1;
+package lab1.bai1.model;
 
 /**
- * Bài 1 – Sản phẩm.
+ * Bài 1 – Sản phẩm (model: chỉ chứa dữ liệu + kiểm tra + tính giá, không in, không nhập).
  *
  * TODO:
  *  1. Thuộc tính private: id (String), name (String), basePrice (double)
